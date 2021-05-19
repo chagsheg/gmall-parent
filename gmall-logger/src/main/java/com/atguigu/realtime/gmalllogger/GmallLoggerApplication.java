@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GmallLoggerApplication {
 // dfsd
     public static void main(String[] args) {
+        System.out.println("dev 分支测试");
         SpringApplication.run(GmallLoggerApplication.class, args);
     }
 

@@ -9,7 +9,7 @@ public class GmallLoggerApplication {
     public static void main(String[] args) {
         System.out.println("dfsdf ");
         System.out.println("dfdddddd");
-
+        System.out.println("ceshi pusht");
         System.out.println("dev 分支测试");
         SpringApplication.run(GmallLoggerApplication.class, args);
     }

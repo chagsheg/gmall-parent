@@ -1,0 +1,19 @@
+{
+    “database”:”gmall”,
+    “table”:”comment_info”,
+    “type”:”insert”,
+    “ts”:1598434438,
+    “xid”:27085,
+    “commit”:true,
+    “data”:{
+        “id”:1298554271214907454,
+        “user_id”:988,
+        “sku_id”:5,
+        “spu_id”:5,
+        “order_id”:548,
+        “appraise”:”1201”,
+        “comment_txt”:”评论内容：78483837649887576216843442715245587379516398154672”,
+        “create_time”:”2020-08-26 17:33:58”,
+        “operate_time”:null
+    }
+}
